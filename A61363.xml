@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A salutation to the little flock, who do chuse Christ to be their rock</title>
+            <author>Samm, John, d. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1633</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61363</idno>
+            <idno type="STC">Wing S533A</idno>
+            <idno type="STC">ESTC R19562</idno>
+            <idno type="EEBO-CITATION">12172385</idno>
+            <idno type="OCLC">ocm 12172385</idno>
+            <idno type="VID">55459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61363)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55459)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 876:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A salutation to the little flock, who do chuse Christ to be their rock</title>
+                  <author>Samm, John, d. 1664.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1633]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Attributed to John Samm. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:55459:1" rendition="simple:additions"/>
+            <div type="half_title">
+               <lg>
+                  <l>A Salutation to the litle flock,</l>
+                  <l>Who doe chooſe Chriſt to be their Rock.</l>
+               </lg>
+               <p>
+                  <hi>Lift up your heads in the light of Chriſt, for the day of your redemption draws near.</hi>
+               </p>
+               <lg>
+                  <l>With a meſſage from the Lord alone;</l>
+                  <l>For the healing of the ſicke and wounded one.</l>
+               </lg>
+               <p>
+                  <hi>And an exhortation unto all to give up unto the death, that they may be crown'd with life.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>DEar and tender Babes, Lambs and Children, whome my heavenly Father hath begotten un<g ref="char:EOLhyphen"/>to himſelf, by the immortal ſeed of the word of life, which lives and abides for ever. Unto you doe I ſend greeting in the overflowings of my heavenly Fathers love, which he hath cau<g ref="char:EOLhyphen"/>ſed to ſtream forth in me, towards you. Dear hearts you are ſo near and dear unto me, that I have been and am overcome with love, as I have felt many of you in the boſome of the Father, which is open to receive you, as you ſink down out of your ſelves; for that is the Babes ſtate, unto which the Kingdome belongs, which is not in word but in power, where<g ref="char:EOLhyphen"/>by ye are preſerved. Oh! dear Lambs, in the perfect love of my God, feel me; for in that am I drawn forth to ſalute and kiſſe you one by one, even with the pure ſincere undefiled lips of the love of God: Oh! let me have a place in your hearts, in that which never changeth, that we may not love in word, or in ſhew: but indeed and in truth, that we may be Epiſtles written in one anothers hearts, that all may know that wee are true diſciples in deed, becauſe wee love one an<g ref="char:EOLhyphen"/>other<g ref="char:punc">▪</g> for love is the fulfilling of the Law, and they that dwell in love, dwell in God, and God dwelleth in them: the Lord hath fil<g ref="char:EOLhyphen"/>led my cup with his loving kindneſs. Oh! drink a full draught with
+<pb n="2" facs="tcp:55459:2"/>me, for I am as if I were ſick with love: Oh! the weight of the glo<g ref="char:EOLhyphen"/>rious love of my God with me feel, that it may preſſe through your veſſels, that your tongues may be touched and your lips may be opened that living ſongs and Hallelujahs may ariſe unto the living God; for praiſes becomes his houſe, its a comely thing to ſing praiſes unto the Lord in the Spirit, and with underſtanding alſo: Oh! let the high praiſes of the Lord be in your mouths, and then the two edged ſword will be in your hands, for they are inſeperable, for the Lord our God is fearfull in his praiſes; by them are the righteous ladded and the wicked aſtoniſhed and tormented; for when the righteous ſeed ſings for joy of heart, the wicked ſhall weep and howl for vexa<g ref="char:EOLhyphen"/>tion of Spirit; and ſo the Spirit of truth which is to lead you into all truth, and ſo into the joy of the Maſter, the which ſhall be the con<g ref="char:EOLhyphen"/>demnation and torment of the wicked, and the day of their deſtru<g ref="char:EOLhyphen"/>ction drawes near; for the Lord will pleade with all fleſh, by his ſword and by fire and a conſumption is determined by the Lord upon all fleſh, and he will terribly ſhake the Earth, that all may be overturned and removed that may be ſhaken, that he may be the All in the riſing of his glorious day which is at hand: Oh! be not daunted or diſmayed although the Sea may ſwell, the Lion like nature roar, and the Devil may rage yet they ſhall never prevail againſt the leaſt Babes, as they abide in the faith: but the leaſt ſhall be as David and the litle one, as a ſtrong Nation: &amp; although the troubles and trials of the righteous ſeed be many, ſo that ſorrow may endure for a night, yet joy will come in the morning; that thoſe which ſuffer with Chriſt ſhall reign with him, over all the powers of Hell and dark<g ref="char:EOLhyphen"/>neſs, both within and without. Litle Children wait to ſee and feel him to ariſe in your own perticulers, who is to ſet our foot upon the Egiptian Sea of darkneſs, from whence the boiſterous waves of all ſtrife and contention ariſe about outward things, and outward formes of worſhip, wherein the true power of God hath been want<g ref="char:EOLhyphen"/>ing, that there may be no more appearance of Sea, as to diſturbe your peace; but his foot you may feel to keep it under, until the tongue
+<pb n="3" facs="tcp:55459:2"/>of that Egiptian Sea be dried up; that there may be no Mountains of drie Land in your way; but that one foot may ſtand on the Earth alſo, that the Mountain of his holyneſs may be eſtabliſhed on the top of the Mountains, that the Sea of glas mingled with fire, a Ri<g ref="char:EOLhyphen"/>ver as cleer as Chriſt all flowing from the Throne of God (ye may ſee and feel,) where the Antient of dayes ſits, who will judge the whore, the falſe Prophet and the Beaſt (which is all that may be numbred up which is on the mans part) that man may ceaſe from his labour and ſore travel, that peace may be upon Earth and all the glory may be to God on high, that the good will may be to men, that no root of bitterneſs may ever more ariſe, that ſendeth forth bitter ſprings, which occaſioneth the meek to fall, as they drink thereof: therefore, dear Children, drink ye alwayes of the pure, freſh, pleaſant ſprings, that ariſe from the pure Fountain of all vertue: go not forth; but in the light dwell, and then ſhall you be ſalted, ſeaſoned and ſwadled with the love of God, that the banner of his love may be over you, and then the noiſe of war will be no more heard amongſt the Camp of God (on mans part,) for the battel is the Lords and he will fight it, therefore fear not, but ſtand ſtill and ſee the ſalvation of God: for the Lord will bring to paſſe his work, his great work, his Act, his ſtrange Act; for the Kingdoms of this World ſhall become the Kingdoms of the Lord and his Chriſt; yea he ſhall rule amongſt the Children of men, for the Kingdom is his, the power, glory, honour, victory, triumph and pure refreſhings are his; Oh! feel his comforts, delighting your Souls, that your joy may be full, that your glorying and whole delight may be in the Lord alone; that we may not be our own in any thing, becauſe the Lord hath purchaſed us with his own blood: Oh! therefore let us give up wholy unto him, that he may glorify himſelf in our bodies, in our ſpirits and ſouls, which are the Lords; that he may make a quick work on the Earthly, and cut it ſhort in his righteouſneſs, that Sion may be his glory &amp; Ieruſalem the praiſe of the whole Earth: Oh! dearly beloved of the Lord, how great is the work of the Lord, which he hath begun to work in you &amp; for <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:55459:3"/>Oh! you dear ones, who have received a meaſure of his ſpirit, as an earneſt of your inheritance, whereby ye are ſealed unto the day of re<g ref="char:EOLhyphen"/>demption: Dear Lambs in the ſpirit, wait and dwell, that it be nor grie<g ref="char:EOLhyphen"/>ved or quenched, that over all it may ariſe &amp; cover you in this day of battel, that the knowledge of the Lord may be Armour of proof, on the right hand, and on the left, that ſalvation may be unto you for walls and bulworks; for aſſuredly as ye abide in the ſpirit (which is the name that is given for ſalvation;) the gates of hell ſhall never pre<g ref="char:EOLhyphen"/>vail againſt you: but ye ſhall be like mount <hi>Sion</hi> which ſhall never be removed, and ye ſhall ſee the mighty God of <hi>Jacob</hi> will carry on his own work, until he hath accompliſhed it unto his praiſe, which work will be glorious as he brings us into the unity of the Faith; into the fulneſs of the meaſure &amp; ſtature of Chriſt, unto that perfect man; then ſhall all that is in part be done away, and then ſhall the reſt be glo<g ref="char:EOLhyphen"/>rious in the Lord of Sabbaths. Ah! travel on, travel on in the growth, in the life which is eternal, that ye may grow from ſtrength to ſtrength, until ye appear before him in <hi>Sion;</hi> that <hi>Sion</hi>'s ſongs may be ſounded forth in the living land: all that can be ſaid is little to what the Lord God hath prepared and laid up in ſtore, for all them that dwell in his fear. Bleſſed are all thoſe that fear the living God all waies, they ſhall read and witneſſe it Excellent, and as you ſink down into the love of God, you will feel theſe lines deep and weighty, for truly friends, as they did ariſe in my heart, the extent did open ſo largely in the over<g ref="char:EOLhyphen"/>comings of Gods love: that my heart was melted, and my bowels ſof<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned and melted, that my eyes were filled with tears, that the glo<g ref="char:EOLhyphen"/>ry of the Lord ſhould be ſo largely revealed unto ſo unworthy a creature as I, who was ſo deeply plunged in ſin and iniquity, as I was in time paſt; that his love ſhould ariſe ſo abundantly as to cover ſuch a multitude of ſins as I had committed againſt him, &amp; that the Lord God ſhould manifeſt himſelf ſo graciouſly in Chriſt, reconcileing and not imputing: Oh dearly beloved, in this wonderful love of our God, feel me, that in this his great love we may all dwell: that we may be all like minded one towards another, that there may be no
+<pb n="5" facs="tcp:55459:3"/>ſtriking at our fellow ſerva<g ref="char:cmbAbbrStroke">̄</g>ts <hi>&amp;c.</hi> But if any one be overtake<g ref="char:cmbAbbrStroke">̄</g> in a fault, you that are ſpiritual, reſtore ſuch an one with the ſpirit of meekneſs for the wrath of man worketh not the righteouſneſs of God; there<g ref="char:EOLhyphen"/>fore ſtrive not to overcome evil with evil, but ſtrive to overcome evil with good; be gentle, courteous and merciful, as your heavenly Father is, and walk in love, for it is a moſt excellent way; for love ſeeketh not her own, but the good of all: love ſuffereth all things, and endureth all things, and it will ſeek to cover, but not uncover the nakedneſs: it is the affectionate part which toſſeth the creature either above all, or below all, as it bares rule: therefore dear Lambs, in the unchangeable love of God in Chriſt Ieſus, all dwell that ye may be rooted, grounded and eſtabliſhed in the preſent truth; that you may follow the Lamb, whetherſoever he goeth, that the true fellowſhip may never be broken, <hi>Amen</hi> ſaith my Soul.</p>
+               <p>Oh! you weaklings, ſick and wounded ones, who are ready to cry out in the purity of your ſpirits, that there is none like unto you: ye ſee your ſelves ſo beſet with temptations, that with little <hi>David,</hi> you are ready to cry out, that ſurely you ſhall one day fall by the Enemi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s hands: Oh! read with me the myſtery of the Parable in the tenth of <hi>Luke.</hi> the 30<hi rend="sup">th</hi>. the 16<hi rend="sup">th</hi>. and the 19<hi rend="sup">th</hi>. There was a certain man, that went from the pure holy ſeed in his own perticular, and then be<g ref="char:EOLhyphen"/>ing from the new &amp; living way in the perticular (which is Chriſt the ſeed where the theif cannot enter,) where he met with the reaſoning, diſp<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing, doubting and queſtioning part; by the which he was robbed and ſtripped of his faith, ſtrength, hope, and confidence, that he was deeply wounded and more then half dead, and being in great diſtreſſe, the enemy in ſuch a caſe will ſeek to lead forth, to look our for help where none is to befound: or elſe to deſpair as if no help were to be had, perſwading poor bruiſed and wounded <hi>Lazarus</hi> to go to the rich gluttons gate, who glutteth himſelf by feeding of the tree of knowledge and a profeſſion of what the dear Saints and ſervants of God enjoy; for that was his cloathing and riches, wherein there was not one crum of life to refreſh poor <hi>Lazarus</hi> withall: but the doggs
+<pb n="6" facs="tcp:55459:4"/>that fed upon the crums that fell from the rich mans table, licked the ſores, but never reached or refreſhed the life; then ſeeing there was no help without Chriſt the life, then did <hi>Lazarus</hi> die to all periſhing food; and when there was none found to help or relieve, then did the good <hi>Samaritan,</hi> Chriſt the life appear, which is full of heavenly Oyle, Balme and ſweet odours, even the fountain of all vertue and fulneſs, in whom there is healing for every diſeaſe; therefore hear you diſeaſed of the land, you poor helpleſs ones: the cry of my ſoule hath been greatly unto the Lord on your behalf. Oh! fear and hear, for this is the anſwer that I recieved from the Lord on your behalf (as I lay upon my bed;) Look up unto me all ye ends of the earth and be ye ſaved, ſaith the Lord God of Hoſtes: and as the Serpent was lifted up in the wilderneſs, even ſo is the Son of man lifted up in this his day, that all that are diſeaſed or wounded may be healed by looking upon him: therefore, dear Friends, look not at your weakneſs or wounds, for the looking at them, will cauſe you to be more weak &amp; wounded: but look up unto the Lord, for in him is everlaſting ſtrength: for I know one that hath paſſed through the fire, and hath endured the flames, that he hath cryed out as it were in the belly of Hell, who de<g ref="char:EOLhyphen"/>ſired water to quench the flames, and having it in a glaſs, he dropt it down to lay the heat thereof, but his ſtrength failed him, and his fleſh failed him, and his heart hath failed him, but the Lord his God never failed him, who in that needful time ſent his faithful meſſenger, ſaying unto me in the word of the Lord, thou ſhalt not die; <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Lord will ſpare thee for the ſeeds ſake; ſo he ſent forth his word and healed and recovered me out of the horrible pit, and hath ſet me upon the Rock, and hath put a new ſong into my mouth, which cauſeth me to ſound forth the high praiſe of the living God, as with the ſound of a trumpet in the firmament of his power, who is aſcen<g ref="char:EOLhyphen"/>ded on high to lead Captivity captive, that his liveing peace may be over the earthly, and his good will in me is ſtrong towards the afflicted and bruiſed, that they which have been hurt may be reco<g ref="char:EOLhyphen"/>vered. Oh! dear friends, feel me, that the ſame minde may be in
+<pb n="7" facs="tcp:55459:4"/>you which is in Chriſt Jeſus: for my ſoul is in travel, that no form may abide in you, but what is in Chriſt the light, that whatever is done by you, may be done in the name of the Lord Ieſus, that you may be birds of Paradiſe, and not of the fire; that you may have no neſt, hole or place to reſt in; but the eternal fould of life, where no devouring beaſt nor bird of prey can enter; that you may all ſhine in his life, that poor <hi>Lazarus</hi> may know that he is carried into the bo<g ref="char:EOLhyphen"/>ſome of the Father, for if he goeth unto the rich man, which feeds on the tree of knowledge, which is much deſireable to the eye which goeth forth from the tree of life, there he muſt lie full of ſores; for the healing is in Chriſt the life: the knowledge in the ſight without the enjoyment of the life healeth not (mark that.) Therefore I ſay again, look up unto Chriſt, the life onely; for he ariſeth with healing in his wings; therefore let no object draw forth your mindes from the Lord, &amp; then his perfect peace you may enjoy; to that which you are called, in the which peace the Lord God of peace eſtabliſh you, <hi>Amen.</hi> So be it, ſaith my Soule. Then ſhall the mans part be abaſed, and the glory of the Lord over all be exalted: which ſhall aſtoniſh the Horſe and the Rider, and wholly ſubject the power of darkneſs, and thus ſhall deliverance come by the Lord alone, therefore I ſay again, eye the Lord and ſtand ſtill in the Faith, and make not haſte, neither be you high minded but fear, and the Lord will preſerve you to the end.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given forth in the pure love and fear of God, in the County Goale of</hi> Northampton, <hi>being twelve ſteps under ground:</hi> 
+                     <date>
+                        <hi>the</hi> 17 <hi>day of the eight Moneth</hi> 1663.</date> 
+                     <hi>Where I with ſixteen more ſuffer for the teſtimony of Ieſus. But the Lord doth and will plead the cauſe of the Innocent in the hearts of his and our Enemics.</hi>
+                  </dateline>
+
+                  <signed>Your dear Friend and Brother in the unchangeable love of God. <hi>IOHN SAMM.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Friends, who are here in this Priſon are well, and the Lords preſence appeares amongst us, who is as a fountain never drawn drie; who
+<pb n="8" facs="tcp:55459:5"/>cauſeth his living cup to overflow, to the praiſe of his glorious Name, which is the Ark of our ſafety.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="part">
+               <p>THe name of the Lord God is a ſtrong tower, and as an oyntment powred forth: I have witneſſed it ſo, that in all my tryals &amp; temptations in his name hath been plentious redemption, for it hath preſerved and delivered me ſix times out of the common Goales, wherein I was caſt for the teſti<g ref="char:EOLhyphen"/>mony thereof: that I never yet paid penny Fees to any Goaler, or any other man upon that account; nor durſt I ever entertain a thought in my heart to think any impriſonments long although I have been ſtrictly detayned for a long time together, neither did I ever entertain any fear into my heart, what might be done to my body, or outward eſtate, or my dear children, who are as dear as my life: but when my goods hath been ſpoiled, as taking away three good Horſes and three of the beſt milch kine I had, for leſſe then one years claim of that which the hireling Prieſt called his due; becauſe I could not for con<g ref="char:EOLhyphen"/>ſcience ſake put into his mouth, which if I could have done, (I do believe) I might have been excuſed for forty ſhillings, which would have prevented the damage of neer forty pounds: but I giving up in obedience to the Lord, ſuffered the loſſe thereof with joy: ſo I know the Lord hath not been a hard Maſter. Oh! what God ever preſerved or delivered in like manner, but the mighty God of <hi>Abra<g ref="char:EOLhyphen"/>ham, Isaack,</hi> and <hi>Iacob;</hi> who delivered <hi>Daniel</hi> out of the Den from the mouthes of the Lions; <hi>Mordecay</hi> from the gallowes, and
+<pb n="9" facs="tcp:55459:5"/>the three Children out of the fiery furnac<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>&amp;c.</hi> Who is my God &amp; the Rock of his choſen, who are faithful and true, who loves not their lives unto death. Oh! dear child<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en, hold faſt your con<g ref="char:EOLhyphen"/>fidence with me, for I do believe t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t the ſame God which hath preſerved and delivered me ſix times will preſerve and de<g ref="char:EOLhyphen"/>liver me this ſeventh alſo, and ſo to the end: Therefore (as good Soldiers of Ieſus Chriſt) let us all be valiant for truth up<g ref="char:EOLhyphen"/>on Earth, Oh! let us all buy the truth, but ſell it not: although we part with our all, that Ieſus Chriſt may be all &amp; in all; Oh! be faithful unto the death, then ſhall you be Crowned with life: what is written is in the innocency of my Soul, as it aroſe in my heart for to ſtrengthen the weak innocent ones which may feel me, that I ſpeak from the experience which I had &amp; have of the great love of God; who is no reſpecter of perſons, ſo I have nothing to boaſt off, for what I have or had at any time, it was and is the free gift of God to me; for the kingdome, power, glory, victory, triumph and pure refreſhing is the Lords: therefore let none rejoyce only becauſe the Devils are or have been ſubject unto them, or that they have done or ſuffered much for the truth of God: but rather that they feel Gods preſence with them, and that they read their names written in the book of life; for truly friends, if any look at the deed done as to reſt or glory in that, that mind is not like to Chriſts; therefore dear children, in all your fiery tryals, look up unto the Lord, that you may (as the three children did) know one in and amongſt you who beares the form of the Son of God, then ſhall you be ſafely preſerved through the fire: but the woe will take hold of all that are with Child or give ſuck to any other birth in themſelves, or others which beares not the Image and forme of the Son of God, and alſo to them that flee in the winter time of Gods judgements, before judgement is brought
+<pb n="10" facs="tcp:55459:6"/>forth unto victory: and alſo thoſe who take their flight on the ſabbath day, which is the light and power of the Lord wherein all are to reſt, whereby all the people of the Lord are preſerved unto Salvation: but they that depart from the light and power where the Tree of Life is known to be food for the Soul to feed upon, any other food will be found to be in the fooliſh Virgins State, therefore what I ſay unto one, I ſay unto all, Watch, yea watch and pray leſt you enter into temptation, for the Spi<g ref="char:EOLhyphen"/>rit, is willing which will help your infirmities and ſupply your wants: but the fleſh is weak, and there is no temptation but is common to man: therefore all to the name the Arke, for as it was in the dayes of Noah, even ſo ſhall it be in this day of the comming of the Son of Man, whoſe appearance is and will be in overflowing flames of fire; as the Lords ap<g ref="char:EOLhyphen"/>pearance was in Noahs day with overflowing floods of wa<g ref="char:EOLhyphen"/>ter, &amp; who ſhall abide his coming, who ſhall dwell with devour<g ref="char:EOLhyphen"/>ing fire, and with everlaſting burnings: none but the innocent birth whoſe Kingdom and delight is not of this World nor in the honour, glory or riches thereof; but delighteth in the Law of God day and night, his dwelling ſhall be on high, his bread ſhall be ſure, his water ſhall never fail for his de<g ref="char:EOLhyphen"/>fence ſhall be the munition of the eternal Rock of ages, which is the power of God, the ſtone cut out of the Mountain without hands which ſhall ſtrike at the feet of all carved images, imaginations and pleaſant pictures, although they may ap<g ref="char:EOLhyphen"/>peare Goldlike, yet down muſt they all fall, and that ſhall remain onely which the fire cannot conſume; therefore bleſſed and happy ſhall they be that takes the Babiloniſh Childe when it is young and daſheth it againſt that Heavenly ſtone, that the Cockatrice may be cruſhed in the egge, that the Ser<g ref="char:EOLhyphen"/>pent may not be brought forth to beguile you, as he beguiled Eve: but in the Heavenly power and Tower all dwell, which
+<pb n="11" facs="tcp:55459:6"/>is the place wherein the Lord will perfect his own work by the inſtrument, which is his own power; ſo mans tool or ham<g ref="char:EOLhyphen"/>mer is not to be uſed or heard in the Temple of God: for it is his powerfull word which made all things in the beginning, which creates anew and faſtens us unto himſelf as a nail in a ſure place: Oh! feel it ſo, that you may go no more forth, then ſhall you be as pillars in the houſe of God: even ſo be it, ſaith my Soul.</p>
+               <p>
+                  <hi>Read and weigh theſe lines in the pure fear and dread of the Lord God, that nothing may be taken amiſſe, although they be but as the Widdowes mite and the overflowing of my Cup: but as the drop of a bucket in compariſon of the <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>tionable fulneſs which is in the infinite Lord God.</hi>
+               </p>
+               <closer>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
